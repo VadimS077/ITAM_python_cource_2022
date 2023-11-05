@@ -1,1 +1,2 @@
 # ITAM_python_cource_2022
+Solutions for itam_python_course
